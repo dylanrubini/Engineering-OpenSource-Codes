@@ -72,6 +72,14 @@ Open-source engineering design tools are less prevalent. Most design tools are c
 | [PyMesh](https://github.com/PyMesh/PyMesh) | PyMesh is a rapid prototyping platform focused on geometry processing. It provides a set of common mesh processing functionalities and interfaces with a number of state-of-the-art open source packages to combine their power seamlessly under a single developing environment |   |  |  ![GitHub Repo stars](https://img.shields.io/github/stars/PyMesh/PyMesh?style=social)  |  |  |
 | [PyVista](https://github.com/pyvista/pyvista) | 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK) |   |  |  ![GitHub Repo stars](https://img.shields.io/github/stars/pyvista/pyvista?style=social) |  |  |
 | [NeuralFoil](https://github.com/peterdsharpe/NeuralFoil) | NeuralFoil is a tool for rapid aerodynamics analysis of airfoils, similar to XFoil. NeuralFoil is a hybrid of physics-informed machine learning techniques and analytical models, leveraging domain knowledge. Its learned core is trained on tens of millions of XFoil runs. |   | 2023 | ![GitHub Repo stars](https://img.shields.io/github/stars/peterdsharpe/NeuralFoil?style=social) |  | Probably too new. More generally, can we included codebase not in the training set as a RAG-type database? |
+| [ParaBlade](https://github.com/NAnand-TUD/parablade) | ParaBlade is an open-source Python library for the parametrization of turbomachinery blades design using gradient-based optimization algorithms. | [🔗 Paper DOI](https://doi.org/10.1016/j.cad.2020.102987)  | 2021 | ![GitHub Repo stars](https://img.shields.io/github/stars/NAnand-TUD/parablade?style=social) | 47 |  |
 
+
+
+### Electronics
+
+| Code Name | Description | Paper link | Origin date | #️⃣ GitHub Stars 🌟 | #️⃣ Citations | ✅ ❌ |
+|:--------:|--------|:------------:|:---------:|:---------------:|:--------------:|:--------------:|
+| [KiCad](https://github.com/KiCad/kicad-source-mirror) | KiCad is a free software suite for electronic design automation (EDA). It facilitates the design and simulation of electronic hardware for PCB manufacturing. It features an integrated environment for schematic capture, PCB layout, manufacturing file viewing, ngspice-provided SPICE simulation, and engineering calculation |   | 2019 | ![GitHub Repo stars](https://img.shields.io/github/stars/KiCad/kicad-source-mirror?style=social) |  |  |
 
 
