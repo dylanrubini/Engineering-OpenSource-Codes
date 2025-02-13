@@ -19,6 +19,7 @@ These codes are collated from a broad range of selected engineering disciplines:
 - 🪨 Solid Mechanics
 - 🔋 Electrochemistry (e.g., batteries)
 - 🧪 Chemical engineering 
+- ⚡️ Electronics
 
 ## Open-Source Numerical Solvers
 
@@ -78,5 +79,6 @@ Open-source engineering design tools are less prevalent. Most design tools are c
 | Code Name | Description | Paper link | Origin date | #️⃣ GitHub Stars 🌟 | #️⃣ Citations | Y24/25 Papers |
 |:--------:|--------|:------------:|:---------:|:---------------:|:--------------:|:--------------:|
 | [KiCad](https://github.com/KiCad/kicad-source-mirror) | KiCad is a free software suite for electronic design automation (EDA). It facilitates the design and simulation of electronic hardware for PCB manufacturing. It features an integrated environment for schematic capture, PCB layout, manufacturing file viewing, ngspice-provided SPICE simulation, and engineering calculation |   | 2019 | ![GitHub Repo stars](https://img.shields.io/github/stars/KiCad/kicad-source-mirror?style=social) |  |  870 |
+| [PyPSA](https://github.com/PyPSA/PyPSA) | PyPSA is an open source toolbox for simulating and optimising modern power and energy systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks. PyPSA is designed to scale well with large networks and long time series. | [🔗 Paper DOI](https://arxiv.org/pdf/1707.09913)  | 2017 | ![GitHub Repo stars](https://img.shields.io/github/stars/PyPSA/PyPSA?style=social) | 715 | 189 |
 
 
