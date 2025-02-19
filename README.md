@@ -5,6 +5,10 @@ This document describes a potential open-source codes on GitHub or GitLab that c
 
 The next phase of task design will be to select of few of the ***most widely used open-source*** codes and identify some new (past 2024) papers that cite the original paper. From these papers engineering sub-tasks can be extracted and designed.
 
+## Link to Collection of Engineering Tasks
+
+[Engineering Task Collection](https://docs.google.com/spreadsheets/d/1HYhsuzmNrPCxiXIGxq6uPcBMfVUMlte4/edit?gid=1737010654#gid=1737010654)
+
 ## :hammer: Selected Engineering Disciplines included
 
 These codes are collated from a broad range of selected engineering disciplines:
@@ -20,6 +24,8 @@ These codes are collated from a broad range of selected engineering disciplines:
 - 🔋 Electrochemistry (e.g., batteries)
 - 🧪 Chemical engineering 
 - ⚡️ Electronics
+- ⏛ Nuclear Fusion
+- 💻 Quantum Computing
 
 ## Open-Source Numerical Solvers
 
@@ -80,5 +86,18 @@ Open-source engineering design tools are less prevalent. Most design tools are c
 |:--------:|--------|:------------:|:---------:|:---------------:|:--------------:|:--------------:|
 | [KiCad](https://github.com/KiCad/kicad-source-mirror) | KiCad is a free software suite for electronic design automation (EDA). It facilitates the design and simulation of electronic hardware for PCB manufacturing. It features an integrated environment for schematic capture, PCB layout, manufacturing file viewing, ngspice-provided SPICE simulation, and engineering calculation |   | 2019 | ![GitHub Repo stars](https://img.shields.io/github/stars/KiCad/kicad-source-mirror?style=social) |  |  870 |
 | [PyPSA](https://github.com/PyPSA/PyPSA) | PyPSA is an open source toolbox for simulating and optimising modern power and energy systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks. PyPSA is designed to scale well with large networks and long time series. | [🔗 Paper DOI](https://arxiv.org/pdf/1707.09913)  | 2017 | ![GitHub Repo stars](https://img.shields.io/github/stars/PyPSA/PyPSA?style=social) | 715 | 189 |
+
+
+### Magnetohydrodynamics (MHD)
+
+| Code Name | Description | Paper link | Origin date | #️⃣ GitHub Stars 🌟 | #️⃣ Citations | Y24/25 Papers |
+|:--------:|--------|:------------:|:---------:|:---------------:|:--------------:|:--------------:|
+| [DESC](https://github.com/PlasmaControl/DESC) | Stellerator nuclear fusion reactor optimization: DESC solves for and optimizes 3D MHD equilibria using pseudo-spectral numerical methods and automatic differentiation | [🔗 Paper DOI](https://doi.org/10.1063/5.0020743)  | 2020 | ![GitHub Repo stars](https://img.shields.io/github/stars/PlasmaControl/DESC?style=social) | 50 | 35 |
+
+### Quantum Computing Algorithms
+
+| Code Name | Description | Paper link | Origin date | #️⃣ GitHub Stars 🌟 | #️⃣ Citations | Y24/25 Papers |
+|:--------:|--------|:------------:|:---------:|:---------------:|:--------------:|:--------------:|
+| [Cirq](https://github.com/quantumlib/Cirq) | Cirq provides useful abstractions for dealing with today’s noisy intermediate-scale quantum (NISQ) computers, where the details of quantum hardware are vital to achieving state-of-the-art results. Some of its features include |   | 2018 | ![GitHub Repo stars](https://img.shields.io/github/stars/quantumlib/Cirq?style=social) |  |  |
 
 
